@@ -1,7 +1,6 @@
 advent
 advent calendar
 advent wreath
-afghanistan
 algeria
 alice
 amaryllis
@@ -95,7 +94,6 @@ ceremonious
 ceremony
 chanukah
 charity
-charlemagne
 cheer
 cheerful
 chestnut
@@ -153,7 +151,6 @@ commercialism
 comoros
 concert
 constantine the great
-constantinople
 cookies
 country
 couple
@@ -313,9 +310,7 @@ ides
 illinois
 illuminated manuscript
 incense
-iran
 irenaeus
-isis
 islam
 israel
 italy
@@ -444,7 +439,6 @@ octave
 old english
 old english language
 old style and new style dates
-oman
 on
 on the detection and overthrow of the so-called gnosis
 on the morning of christ's nativity
@@ -452,7 +446,6 @@ origen of alexandria
 ornaments
 other
 pagan
-pakistan
 papist
 parade
 party
@@ -505,7 +498,6 @@ romance
 roundhead
 royalism
 rudolph
-russia
 saint nicholas
 santa
 santa claus
@@ -573,7 +565,6 @@ sunset
 susan
 sweater
 syncretism
-tajikistan
 tanabata
 tannenbaum
 tax
@@ -589,7 +580,6 @@ the exodus
 their
 theme
 themed
-thor
 three kings day
 tidings
 time
@@ -608,7 +598,6 @@ trinity
 trip
 tunisia
 turkey
-turkmenistan
 twelfth night
 twelfthtide
 twelve days of christmas
